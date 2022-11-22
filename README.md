@@ -12,7 +12,7 @@ Realizada por:
 Software usado:
 ---------------
 
--MatLab  / archivos  .m
+-MatLab: 2017a  / archivos  .m
 
 -CoppeliaSim  / archivos  .ttt
 
