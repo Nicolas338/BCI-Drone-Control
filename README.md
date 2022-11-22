@@ -12,7 +12,7 @@ Realizada por:
 Software usado:
 ---------------
 
--MatLab: 2017a  / archivos  .m
+-MatLab: 2017a  / archivos  .m  (Excepto Confusion.m, ya que necesita una versión de 2018b o más reciente)
 
 -CoppeliaSim  / archivos  .ttt
 
