@@ -10,6 +10,7 @@ Realizada por:
 ![ImageDron](https://github.com/Nicolas338/BCI-Drone-Control/blob/c40002a7223ac94f4284c31f3f49a78d39c01eff/Dron.jpg)
 
 Software usado:
+---------------
 
 -MatLab  / archivos  .m
 
