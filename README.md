@@ -2,5 +2,5 @@
  Tesis de Pregrado. Pontificia Universidad Javeriana
 
 Realizada por:
-Nicolás Enrique Rodríguez Villate \n
+Nicolás Enrique Rodríguez Villate
 Nicolás Alberto Bravo Silva
